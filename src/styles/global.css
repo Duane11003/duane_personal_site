@@ -30,3 +30,11 @@ a:active {
     color: rgb(185, 185, 185);
     font-size: 14px;
 }
+
+img {
+    border-radius: 10%;
+}
+
+.itals {
+    font-style: italic;
+}

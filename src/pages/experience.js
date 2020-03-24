@@ -4,9 +4,9 @@ import Layout from '../components/layout'
 export default () => (
  <Layout>
  <div>
-     <h4>Professional Experience</h4>
-     <p><span className='boldText'>MJHS Health | Designer</span></p>
-     
+     <p className='bodyText'><span className='boldText'>Languages I speak:</span> JavaScript (ES6+)  |  React (Hooks)  |  Redux  |  Node  |  Express  |  Gatsby.js  |  SQL  |  NoSQL  |  HTML  |  CSS/SCSS</p>
+     <p><span className='boldText'>Tools I Use:</span> Webpack  |  Babel  |  Git/Github  |  AWS (S3/EC2)  |  Jest/Enzyme  |  CSS Modules</p>
+     <p><span className='boldText'>Public Talks:</span> Redux vs Context API: Sept 2019, <span className='itals'>Build With Code NYC</span></p>
  </div>
  </Layout>
 )

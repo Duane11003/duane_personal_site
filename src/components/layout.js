@@ -18,5 +18,6 @@ export default ({ children }) => (
       </ul>
     </header>
     {children}
+    <footer className='footer'>@duanemcfarlane</footer>
   </div>
 )
