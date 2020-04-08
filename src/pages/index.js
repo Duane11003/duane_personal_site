@@ -9,11 +9,11 @@ export default () => (
   <div>
    
     <p className='bodyText'>
-      Hi there, I'm a NYC-based software engineer focusing on JavaScript, with a background of building scaleable <span className='boldText'>react/redux/node </span>applications. Most recently I co-created an electron tool for devs to see their micro-service communication, for the open-source community. Having been around JavaScript for almost a decade, I find great joy in learning new concepts/patterns everyday. 
+      Hi there, I'm a NYC-based software engineer focusing on JavaScript, with a background of building scaleable <span className='boldText'>react/redux/node </span>applications. Most recently I co-created an electron tool for devs to view their micro-service communication, for the open-source community. Having been around JavaScript for almost a decade, I find great joy in learning new concepts/patterns everyday. 
     </p>
 
     <p>
-      Prior to becoming an engineer, I was a designer for over 10 years. During my tenure, I started doing UI (at the time jQuery was the popular library). Over the years, I my passion for engineering outgrew my passion for design and I realized I wanted to make a pivot.
+      Prior to becoming an engineer, I was a designer for over 10 years. During my tenure, I started doing UI work (at the time jQuery was the popular library). Over the years, I my passion for engineering outgrew my passion for design and I realized I wanted to make a pivot.
     </p>
 
     <p>
