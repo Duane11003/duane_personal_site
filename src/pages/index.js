@@ -13,7 +13,7 @@ export default () => (
     </p>
 
     <p>
-      Prior to becoming an engineer, I was a designer for over 10 years. During my tenure, I started doing UI work (at the time jQuery was the popular library). Over the years, I my passion for engineering outgrew my passion for design and I realized I wanted to make a pivot.
+      Prior to becoming an engineer, I was a designer for over 10 years. During my tenure, I started doing UI work (at the time jQuery was the popular library). Over the years, my passion for engineering outgrew my passion for design and I realized I wanted to make a pivot.
     </p>
 
     <p>
